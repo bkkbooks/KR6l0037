@@ -1,0 +1,194 @@
+canonical_identifier: bkk:krp/KR6l0037/v1
+canonical_location: https://kanripo.org/bkk/KR6l0037/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 俱舍論疏
+  identifiers:
+    alt_id:
+    - X53n0836
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X53/X53n0836.xml
+    old_id: X53n0836
+  edition:
+    short: bkk
+editions:
+- short: 卍續
+  label: 卍續
+  source_xml_id: wit.orig
+- short: X
+assets:
+  parts:
+  - {seq: 0, filename: KR6l0037_000.yaml, hash: 'sha256:2c15fc7cd306340e93c22888e9e437ca4c22c558452d81ad55102325fb716737'}
+  - {seq: 1, filename: KR6l0037_001.yaml, hash: 'sha256:9b1fc913ab992f1705f3584a6d4ebbbff77687be065712130396b799f28a574d'}
+  - {seq: 2, filename: KR6l0037_002.yaml, hash: 'sha256:39e1b58e5292205e7f67fbb6696a061e0e118e5c3efe080548d7e9f146ee512b'}
+  - {seq: 4, filename: KR6l0037_004.yaml, hash: 'sha256:24e9936c5e1c91d29b4f0a62cb817ceca9ff63b5482ca91368e9db39bc1dbb24'}
+  - {seq: 5, filename: KR6l0037_005.yaml, hash: 'sha256:921d301a278393942e7792dbd9d8575dce1c421217df32d8e74b3ff5b406f839'}
+  - {seq: 6, filename: KR6l0037_006.yaml, hash: 'sha256:548f6b0fe8d0fb3d2061e75a240648b81a98c89299c191472d15971ebc205348'}
+  - {seq: 7, filename: KR6l0037_007.yaml, hash: 'sha256:e5b4ee75359e0a9dc4c78c64d6ca9d34fc58a2e2dee534affe5d79845f68e752'}
+  - {seq: 17, filename: KR6l0037_017.yaml, hash: 'sha256:e026cc5881a9fb345779354189191384d27b65eba5854fddcb9a5e538ea3da03'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR6l0037_001.markers.yaml, hash: 'sha256:094e00d536127551c5f79383f677ef736bc3ad82bace9d6e601ab9b5887ca8f9'}
+  - {seq: 2, role: markers, filename: assets/KR6l0037_002.markers.yaml, hash: 'sha256:8f1dff3213740790c05292e76e55e97780188119411945853f22908dd52b133f'}
+  - {seq: 4, role: markers, filename: assets/KR6l0037_004.markers.yaml, hash: 'sha256:5db0ad01d6ffc5591844c964ad4b393ea861b3f260e06d4bbae2d8d9f787dbd5'}
+  - {seq: 5, role: markers, filename: assets/KR6l0037_005.markers.yaml, hash: 'sha256:9523f54c57b275429051324f55220131ffe19078c4bcb5db8d74b1d4e7138073'}
+  - {seq: 6, role: markers, filename: assets/KR6l0037_006.markers.yaml, hash: 'sha256:bfcba203c97349fc3476301ea2e02db543e20c44a38930ba460c741f14f876c2'}
+  - {seq: 7, role: markers, filename: assets/KR6l0037_007.markers.yaml, hash: 'sha256:2a6698052be4c22129e9032da1fc9b9de6731dfd15ad33488f6c61867db3c08b'}
+  - {seq: 17, role: markers, filename: assets/KR6l0037_017.markers.yaml, hash: 'sha256:a3b51472c55e4e8b3a83d1b4354d9671f48b8876c1a2131a2a20e42a0f1d3480'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR6l0037_X_000-mulu-1
+    span:
+    - front
+    - 0
+    - 0
+  label: 目次
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6l0037_X_001-juan-start
+    span:
+    - body
+    - 0
+    - 27349
+  label: 俱舍論疏論本第一
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6l0037_X_001-mulu-1
+    span:
+    - body
+    - 9
+    - 9
+  label: 分別界品第一之一
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6l0037_X_002-juan-start
+    span:
+    - body
+    - 0
+    - 17541
+  label: 俱舍論疏論本第二
+  type: juan
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6l0037_X_002-mulu-1
+    span:
+    - body
+    - 9
+    - 9
+  label: 分別界品第一之二
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6l0037_X_004-juan-start
+    span:
+    - body
+    - 0
+    - 19282
+  label: 俱舍論疏論本第四
+  type: juan
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6l0037_X_004-mulu-1
+    span:
+    - body
+    - 9
+    - 9
+  label: 分別根品第二之二
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6l0037_X_005-juan-start
+    span:
+    - body
+    - 0
+    - 28908
+  label: 阿毗達磨俱舍論疏卷第五
+  type: juan
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6l0037_X_005-mulu-1
+    span:
+    - body
+    - 9
+    - 9
+  label: 分別根品第二之三
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6l0037_X_006-juan-start
+    span:
+    - body
+    - 0
+    - 25635
+  label: 俱舍論䟽論本第六
+  type: juan
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6l0037_X_006-mulu-1
+    span:
+    - body
+    - 9
+    - 9
+  label: 分別根品第二之四
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6l0037_X_007-juan-start
+    span:
+    - body
+    - 0
+    - 12233
+  label: 俱舍論疏論本第七
+  type: juan
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6l0037_X_007-mulu-1
+    span:
+    - body
+    - 9
+    - 9
+  label: 分別根品第二之五
+  type: mulu
+  level: 1
+- ref:
+    seq: 17
+    marker_id: KR6l0037_X_017-juan-start
+    span:
+    - body
+    - 0
+    - 16371
+  label: 俱舍論疏卷第十七
+  type: juan
+  level: 1
+- ref:
+    seq: 17
+    marker_id: KR6l0037_X_017-mulu-1
+    span:
+    - body
+    - 9
+    - 9
+  label: 分別賢聖品第六之三
+  type: mulu
+  level: 1
+hash: sha256:f71db31ed5d82eaa0399d89ef2a79e9292dcbbabf10067eccb1611e173feae5a
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
