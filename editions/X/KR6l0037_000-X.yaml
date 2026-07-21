@@ -1,13 +1,10 @@
 canonical_identifier: bkk:krp/KR6l0037/x/v1/juan/0
 seq: 0
-front:
+body:
   text: 俱舍論疏現存目次卷第一分別界品第一之一卷第二分別界品第一之二卷第四分別根品第二之二卷第五分別根品第二之三卷第六分別根品第二之四卷第七分別根品第二之五卷第十七分別賢聖品第六之三俱舍論疏現存目次終
   hash: sha256:2f43de487f5b5480b8ff88cdb4948f9d1ec291f52a9d2b3a2557f62aaab5694e
   markers:
   - {type: 其他, offset: 0, content: 目次, id: KR6l0037_X_000-mulu-1, level: '1'}
-body:
-  text: ''
-  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 metadata:
   title: 俱舍論疏
   edition:
@@ -16,4 +13,4 @@ metadata:
     repository: cbeta
     path: /home/chris/src/xml-p5/X/X53/X53n0836.xml
     old_id: X53n0836
-hash: sha256:2c15fc7cd306340e93c22888e9e437ca4c22c558452d81ad55102325fb716737
+hash: sha256:7b364b8a6b3c9628fdbd0aac1adc37d87f90599950a48fe6b5a0e9d8560e27ab
